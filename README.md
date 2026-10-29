@@ -111,7 +111,7 @@ Tasks and preferences are saved in LocalStorage on the current browser/device. T
    git add .
    git commit -m "Build Taskora task management app"
    git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/taskora-smart-task-manager.git
+   git remote add origin https://https://github.com/rvindhu/taskora-task-management-application.git
    git push -u origin main
    ```
 
